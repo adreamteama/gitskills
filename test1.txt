@@ -1,4 +1,6 @@
-echo haha
+reating a new branch is quick AND simple.
+
+
 
 2016年08月08日18:36:39
 
@@ -8,5 +10,10 @@ echo.
 Creating a new branch is quick.
 
 2016年08月08日18:43:06
+
+Creating a new branch is quick AND simple.
+
+2016年08月08日19:15:00
+
 
 
