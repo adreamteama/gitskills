@@ -3,3 +3,10 @@ echo haha
 2016年08月08日18:36:39
 
 echo.
+
+
+Creating a new branch is quick.
+
+2016年08月08日18:43:06
+
+
