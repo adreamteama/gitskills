@@ -6,3 +6,9 @@ echo.
 Creating a new branch is quick.
 
 2016年08月08日18:43
+
+测试git 的tag 功能
+
+2016年08月09日11:50:35
+
+
