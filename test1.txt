@@ -1,7 +1,9 @@
-reating a new branch is quick AND simple.
+reating a new branch is quick 
+
+不好，有bug，我需要去修复！哈哈
 
 
-
+<<<<<<< HEAD
 2016年08月08日18:36:39
 
 echo.
@@ -22,3 +24,5 @@ Creating a new branch is quick and simple.
 
 先这么用着吧，回头在下一版本直
 
+=======
+>>>>>>> devvv
